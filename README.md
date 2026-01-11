@@ -108,9 +108,9 @@ Entities changed based on the random topics fetched, showing that the pipeline a
 Spark Streaming with Real Time Data and Kafka
 
 <img width="1900" height="895" alt="15 minutes" src="https://github.com/user-attachments/assets/dc7858d0-aa3f-477e-8bba-69709276470c" />
-
+---
 <img width="1900" height="895" alt="15 minutes" src="https://github.com/user-attachments/assets/c5e912c3-bba9-4e06-bfaa-aebf7537f7f5" />
-
+---
 <img width="1900" height="898" alt="45 minutes" src="https://github.com/user-attachments/assets/cd5fc7bd-a659-4fc3-9727-0ae56d96f7b6" />
-
+---
 <img width="1900" height="886" alt="60 minutes" src="https://github.com/user-attachments/assets/a67e1f55-8801-4539-8742-9103d3ecd8ed" />
