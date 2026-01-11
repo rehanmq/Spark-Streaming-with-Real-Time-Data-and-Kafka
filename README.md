@@ -1,4 +1,4 @@
-# Real-Time Named Entity Recognition Streaming Pipeline
+# ⚡ Real-Time Named Entity Recognition Streaming Pipeline
 
 This project builds a real-time streaming pipeline to extract and visualize the most frequently mentioned named entities from live news articles.
 
